@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\5701e3bb2e21afef37d5557a014dc3c3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\91fe6393346e6af53f9485045fa6a9a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\cea04db7c2dadec37afae779f1356b8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\084a7a029291576cef6d0d87a69b3f0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\80bb2ad3817e6ad3a62a3121a64e113a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e10db317f3b3e01a25f4ab6624dcc870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\a726f9bf3c61f39769ee5b2bf97ce529\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\558327f70288face0590fc3256780176\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e38ef560cf9090dcc84fc25c34085775\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\ba5a35eaaeecbfb680e8bbbb45b412a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\da67d6a52160bcfe62d1fac76ea74ca9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\561adf8b92a2cf9042a3157228549250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\14acbb8ae362e428bb516959f73902b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f774731e8db5163de59d135a55258ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\78337d0defe463863974c0e54d3f5912\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\07da50b550f548cbf8f488f1ab2ee1fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\419e5c065e12ac255507d950ae1ff6d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f1fcb803c94c87f7bd4df150ae37803\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f5779f81e00cda618d7ce12f75949a14\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f2ad98b6d64a2cbaa8c1a9bab7404575\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f27e43b2a8f7b6afa57c737106156380\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\df6184232033cad10db0d1c24d9cc75b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\d02a551f3d717c45386c258f9d32efe0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\8e28659a5dbc37fd79268d06d93a4c5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e4de07c7783d2e27d4e25b7d344a6905\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\c591cb159a4d6f95de903a30a630e4c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\ef03e68bc24ff3d81fce4cbe104719a5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\a8aa71dc19eddf2e5d645383feffab22\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e119543bd4f39a6169f48b7e5a83d04d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\2d0267d5b6d04db984cd12762fa34ec6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:4:5-47
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:9:5-88
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:9:29-85
+application
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\5701e3bb2e21afef37d5557a014dc3c3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\5701e3bb2e21afef37d5557a014dc3c3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f1fcb803c94c87f7bd4df150ae37803\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f1fcb803c94c87f7bd4df150ae37803\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f5779f81e00cda618d7ce12f75949a14\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f5779f81e00cda618d7ce12f75949a14\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f1fcb803c94c87f7bd4df150ae37803\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:14:9-60
+	android:theme
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:13:9-62
+activity#com.max_belleville.messaging_app.MainActivity
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:17:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:16:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:21:27-74
+service#com.max_belleville.messaging_app.SerialService
+ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:24:9-82
+	android:name
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml:24:18-79
+uses-sdk
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\5701e3bb2e21afef37d5557a014dc3c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\5701e3bb2e21afef37d5557a014dc3c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\91fe6393346e6af53f9485045fa6a9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\91fe6393346e6af53f9485045fa6a9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\cea04db7c2dadec37afae779f1356b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\cea04db7c2dadec37afae779f1356b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\084a7a029291576cef6d0d87a69b3f0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\084a7a029291576cef6d0d87a69b3f0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\80bb2ad3817e6ad3a62a3121a64e113a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\80bb2ad3817e6ad3a62a3121a64e113a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e10db317f3b3e01a25f4ab6624dcc870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e10db317f3b3e01a25f4ab6624dcc870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\a726f9bf3c61f39769ee5b2bf97ce529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\a726f9bf3c61f39769ee5b2bf97ce529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\558327f70288face0590fc3256780176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\558327f70288face0590fc3256780176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e38ef560cf9090dcc84fc25c34085775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e38ef560cf9090dcc84fc25c34085775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\ba5a35eaaeecbfb680e8bbbb45b412a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\ba5a35eaaeecbfb680e8bbbb45b412a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\da67d6a52160bcfe62d1fac76ea74ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\da67d6a52160bcfe62d1fac76ea74ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\561adf8b92a2cf9042a3157228549250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\561adf8b92a2cf9042a3157228549250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\14acbb8ae362e428bb516959f73902b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\14acbb8ae362e428bb516959f73902b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f774731e8db5163de59d135a55258ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f774731e8db5163de59d135a55258ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\78337d0defe463863974c0e54d3f5912\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\78337d0defe463863974c0e54d3f5912\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\07da50b550f548cbf8f488f1ab2ee1fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\07da50b550f548cbf8f488f1ab2ee1fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\419e5c065e12ac255507d950ae1ff6d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\419e5c065e12ac255507d950ae1ff6d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f1fcb803c94c87f7bd4df150ae37803\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\9f1fcb803c94c87f7bd4df150ae37803\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f5779f81e00cda618d7ce12f75949a14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f5779f81e00cda618d7ce12f75949a14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f2ad98b6d64a2cbaa8c1a9bab7404575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f2ad98b6d64a2cbaa8c1a9bab7404575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f27e43b2a8f7b6afa57c737106156380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\f27e43b2a8f7b6afa57c737106156380\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\df6184232033cad10db0d1c24d9cc75b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\df6184232033cad10db0d1c24d9cc75b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\d02a551f3d717c45386c258f9d32efe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\d02a551f3d717c45386c258f9d32efe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\8e28659a5dbc37fd79268d06d93a4c5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\8e28659a5dbc37fd79268d06d93a4c5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e4de07c7783d2e27d4e25b7d344a6905\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e4de07c7783d2e27d4e25b7d344a6905\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\c591cb159a4d6f95de903a30a630e4c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\c591cb159a4d6f95de903a30a630e4c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\ef03e68bc24ff3d81fce4cbe104719a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\ef03e68bc24ff3d81fce4cbe104719a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\a8aa71dc19eddf2e5d645383feffab22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\a8aa71dc19eddf2e5d645383feffab22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e119543bd4f39a6169f48b7e5a83d04d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\e119543bd4f39a6169f48b7e5a83d04d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\2d0267d5b6d04db984cd12762fa34ec6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Belleville\.gradle\caches\transforms-2\files-2.1\2d0267d5b6d04db984cd12762fa34ec6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Belleville\Desktop\mobileSide\MessagingApp\app\src\main\AndroidManifest.xml
