@@ -11,7 +11,6 @@ Max: Android App, Arduino code, hardware
 
 Link to Video: https://photos.app.goo.gl/KsKRQA3WbZQjaQ7U9
 
-Project’s used
 To aid in developing our project as we first used the processing library ControlP5. That gave us some P5.js functionality in processing meaning we would have access to basic UI elements like buttons and text input fields. (Credit: http://www.sojamo.de/libraries/controlP5/)
 
 As for the mobile side of things we planned on coding it from scratch but as it happens the Bluetooth module we got was not a normal Bluetooth module. It was a JDY-09 whereas a normal version is HC-05 or HC-06.
