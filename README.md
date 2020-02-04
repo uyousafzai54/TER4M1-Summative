@@ -9,6 +9,8 @@ Made by: Max Belleville and Umar Yousafzai
 Umar: Processing code, Arduino code, hardware
 Max: Android App, Arduino code, hardware
 
+Link to Video: https://photos.app.goo.gl/KsKRQA3WbZQjaQ7U9
+
 Project’s used
 To aid in developing our project as we first used the processing library ControlP5. That gave us some P5.js functionality in processing meaning we would have access to basic UI elements like buttons and text input fields. (Credit: http://www.sojamo.de/libraries/controlP5/)
 
